@@ -1,6 +1,3 @@
-# TRPG_TABLE
-
-
 ## 🎲TRPG TABLE とは
 AIをGMとしてTRPG(テーブルトークRPG)風に遊ぶ専用UIです。各種のAPIと接続して使います。
 
